@@ -11,7 +11,7 @@
 </p>
 
 
-### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/master/assets/hello.gif" width="29px"> Hi there!
+### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/assets/hello.gif" width="29px"> Hi there!
 
 - 🤖 I am an undergraduate student pursuing a B.Tech in Information Technology from KJ Somaiya College of Engineering.
 
