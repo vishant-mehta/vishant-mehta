@@ -45,6 +45,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=vishant-mehta&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
 
+<p align="center"> 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-mehta&layout=compact&theme=merko)](https://github.com/vishant-mehta/github-readme-stats)
-	
+</p>	
 </p>
