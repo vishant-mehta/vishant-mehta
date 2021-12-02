@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/vishant-mehta/vishant-mehta/main/header.png "Header")
+![Header](https://raw.githubusercontent.com/vishant-mehta/vishant-mehta/main/header1.png "Header")
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
