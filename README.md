@@ -10,24 +10,17 @@
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hi there!
 
-- 🤖 I am an undergraduate student pursuing 
-a B.Tech in Information Technology from 
-KJ Somaiya College of Engineering.
-
-- 👉 My skills with Python, C, C++, and libraries 
-such as NumPy, Pandas, Matplotlib, NLTK, Scikit 
-learn, Seaborn, TensorFlow, and Keras help me find 
-innovative solutions to real-world, practical problems.
-
-- 💡 My professional experiences and research work 
-- have helped me figure out my interests. 
-
-- 📊 I'm passionate about Machine Learning, 
-- Web Development, and Data Science 
-- and look forward to gaining more knowledge 
-- and experience in these fields.
-
 <img align="right" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" />
+
+- 🤖 I am an undergraduate student pursuing a B.Tech in Information Technology from KJ Somaiya College of Engineering.
+
+- 👉 My skills with Python, C, C++, and libraries such as NumPy, Pandas, Matplotlib, NLTK, Scikit learn, Seaborn, TensorFlow, and Keras help me find innovative solutions to real-world, practical problems.
+
+- 💡 My professional experiences and research work have helped me figure out my interests. 
+
+- 📊 I'm passionate about Machine Learning, Web Development, and Data Science and look forward to gaining more knowledge and experience in these fields.
+
+
 
 <br />
 
