@@ -21,7 +21,7 @@
 
 - 📊 I'm passionate about Machine Learning, Web Development, and Data Science and look forward to gaining more knowledge and experience in these fields.
 
-<img align="center" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="800" height="500" />
+<img align="center" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <br />
 
