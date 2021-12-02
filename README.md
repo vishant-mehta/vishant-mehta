@@ -2,7 +2,7 @@
 <h1 align="center">Vishant Mehta</h1>
 
 <p align="center">
-⌨️ You can find me here <a href="www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+💻 <a href="www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/vishant_mehta/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 
-### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/assets/hello.gif" width="29px"> Hi there!
+### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hi there!
 
 - 🤖 I am an undergraduate student pursuing a B.Tech in Information Technology from KJ Somaiya College of Engineering.
 
@@ -21,7 +21,7 @@
 
 - 📊 I'm passionate about Machine Learning, Web Development, and Data Science and look forward to gaining more knowledge and experience in these fields.
 
-<img align="center" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" />
+<p align="center" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" /></p>
 
 <br />
 
