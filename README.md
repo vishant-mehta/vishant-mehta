@@ -10,7 +10,7 @@
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hi there! <br><br>
 
-<img align="right" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="310" />
+<img align="right" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🤖 I am an undergraduate student pursuing a B.Tech in Information Technology from KJ Somaiya College of Engineering.
 
