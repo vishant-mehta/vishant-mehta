@@ -2,12 +2,12 @@
 <h1 align="center">Vishant Mehta</h1>
 
 <p align="center">
-💻 <a href="www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+💻  <a href="www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/vishant_mehta/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-💼 Get in touch <a href="mailto:vishantmehta99@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
+💼  <a href="mailto:vishantmehta99@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
 </p>
 
 
@@ -21,7 +21,7 @@
 
 - 📊 I'm passionate about Machine Learning, Web Development, and Data Science and look forward to gaining more knowledge and experience in these fields.
 
-<p align="center" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" /></p>
+<img align="center" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <br />
 
