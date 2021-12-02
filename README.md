@@ -2,8 +2,8 @@
 <h1 align="center">Vishant Mehta</h1>
 
 <p align="center">
-<a href="www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/vishant_mehta/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | 
+<a href="https://www.instagram.com/vishant_mehta/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> |
 <a href="mailto:vishantmehta99@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
 </p>
 
@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vishant-mehta&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"/><br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant-mehta&theme=dark" /><br>
 
-<center>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-mehta&layout=compact&theme=merko)](https://github.com/vishant-mehta/github-readme-stats)</center>
+[<center>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-mehta&layout=compact&theme=merko)](https://github.com/vishant-mehta/github-readme-stats)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=vishant-mehta&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
 	
