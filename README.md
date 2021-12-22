@@ -6,11 +6,11 @@
 <a href="mailto:vishantmehta99@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
 </p>
 
-<span align="center"> 
+<!--<span align="center"> 
 	
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=vishant-mehta&repo=github-visitors-badge&countColor=%237B1E7A) 
 	
-</span>
+</span>-->
 
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hi there! <br><br>
