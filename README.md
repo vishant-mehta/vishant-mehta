@@ -8,7 +8,7 @@
 
 <span align="center"> 
 	
-![Visitor Count](https://profile-counter.glitch.me/{vishant-mehta}/count.svg)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=vishant-mehta&repo=github-visitors-badge&countColor=%237B1E7A) 
 	
 </span>
 
