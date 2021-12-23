@@ -12,6 +12,8 @@
 	
 </span>-->
 
+![](https://komarev.com/ghpvc/?username=vishant-mehta&color=dc143c)
+
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hi there! <br><br>
 
