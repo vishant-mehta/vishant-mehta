@@ -11,7 +11,7 @@
 
 - 🤖 I am a Graduate student pursuing a Master's in Computer Science from Northeastern University, Khoury College of Computer Sciences in Boston.
 
-- 👉 My skills with Python, C, C++, and libraries such as NumPy, Pandas, Matplotlib, NLTK, Scikit learn, Seaborn, TensorFlow, and Keras help me find innovative solutions to real-world, practical problems.
+- 👉 My skills with Python, Java, C, R, C++, and libraries such as NumPy, Pandas, Matplotlib, NLTK, Scikit learn, Seaborn, TensorFlow, and Keras help me find innovative solutions to real-world, practical problems.
 
 - 💡 My professional experiences and research work have helped me figure out my interests. 
 
