@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/vishant-mehta/vishant-mehta/main/header1.png "Header")
-
 <p align="center">
 <a href="https://www.linkedin.com/in/vishant-mehta-150652217"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
 <a href="https://www.instagram.com/vishant_mehta/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -11,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/vishant-mehta/vishant-mehta/blob/main/code.gif?raw=true" width="500" height="340" />
 
-- 🤖 I am an undergraduate student pursuing a B.Tech in Information Technology from KJ Somaiya College of Engineering.
+- 🤖 I am a Graduate student pursuing a Master's in Computer Science from Northeastern University, Khoury College of Computer Sciences in Boston.
 
 - 👉 My skills with Python, C, C++, and libraries such as NumPy, Pandas, Matplotlib, NLTK, Scikit learn, Seaborn, TensorFlow, and Keras help me find innovative solutions to real-world, practical problems.
 
